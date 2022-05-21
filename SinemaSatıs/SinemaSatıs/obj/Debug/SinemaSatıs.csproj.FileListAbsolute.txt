@@ -1,0 +1,11 @@
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\bin\Debug\SinemaSatıs.exe.config
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\bin\Debug\SinemaSatıs.exe
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\bin\Debug\SinemaSatıs.pdb
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\obj\Debug\SinemaSatıs.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\obj\Debug\SinemaSatıs.csproj.SuggestedBindingRedirects.cache
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\obj\Debug\SinemaSatıs.Form1.resources
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\obj\Debug\SinemaSatıs.Properties.Resources.resources
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\obj\Debug\SinemaSatıs.csproj.GenerateResource.cache
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\obj\Debug\SinemaSatıs.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\obj\Debug\SinemaSatıs.exe
+C:\Users\90553\source\repos\SinemaSatıs\SinemaSatıs\obj\Debug\SinemaSatıs.pdb
